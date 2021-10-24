@@ -1,0 +1,37 @@
+country,total_cases,total_deaths,population,health_expenditure per capita,income_group
+Afghanistan,155940,7253,40073188,186.41,Low Income
+Armenia,293014,5975,2970495,1036.95,Upper Middle Income
+Azerbaijan,514289,6869,10258746,633.56,Upper Middle Income
+Bahrain,276526,1393,1778667,1955.35,Upper Middle Income
+Bangladesh,1567417,27814,166835822,109.64,Lower Middle Income
+Cambodia,117772,2734,17021502,261.16,Lower Middle Income
+China,96758,4636,1439323776,935.19,Upper Middle Income
+India,34175468,454301,1397753851,275.13,Lower Middle Income
+Indonesia,4239396,143176,277307072,375.16,Lower Middle Income
+Iran,5851670,125052,85398830,1691.34,Lower Middle Income
+Iraq,2045027,22937,41401150,715.96,Upper Middle Income
+Israel,1322395,8046,9326000,3207.47,High Income
+Japan,1716393,18183,125969289,4503.68,High Income
+Jordan,849758,10941,10335643,737.75,Upper Middle Income
+Kazakhstan,928211,11907,19070446,783.76,Upper Middle Income
+Kuwait,412506,2460,4353140,3669.02,High Income
+Kyrgyzstan,180563,2653,6664882,259.93,Lower Middle Income
+Lebanon,637312,8449,6785403,1085.85,Upper Middle Income
+Malaysia,2426050,28354,32908287,1193.85,Upper Middle Income
+Maldives,86830,240,552985,1442.57,Upper Middle Income
+Mongolia,349509,1660,3347296,519.27,Lower Middle Income
+Myanmar,493576,18511,54887156,291.74,Lower Middle Income
+Nepal,808534,11345,29821610,180.41,Lower Middle Income
+Oman,304116,4107,5276146,1729.54,High Income
+Pakistan,1268536,28377,226495916,178.24,Lower Middle Income
+Philippines,2751667,41585,111488238,393.9,Lower Middle Income
+Qatar,238436,608,2807805,3165.86,High Income
+S. Korea,351899,2766,51326963,3213.66,High Income
+Saudi Arabia,548205,8776,35522604,3519.91,High Income
+Singapore,169261,300,5910549,4439.28,High Income
+Sri Lanka,535529,13593,21530781,516.92,Lower Middle Income
+Thailand,1850482,18755,70029294,722.7,Upper Middle Income
+Turkey,7827013,68917,85526175,1170.78,Upper Middle Income
+UAE,739190,2129,10046686,3172.61,High Income
+Uzbekistan,183569,1304,34103371,459.42,Lower Middle Income
+Vietnam,884895,21620,98484454,440.17,Lower Middle Income
